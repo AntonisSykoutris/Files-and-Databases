@@ -14,3 +14,14 @@ This project is using the following
 
 - Java
 - MySQL
+
+
+## Here are some screenshots of the executable
+
+<p align="middle"><img src="https://github.com/AntonisSykoutris/Bonvita-Digital-Solutions/blob/main/card%20game.gif" width = "100" height="200"/>
+<img src="https://github.com/AntonisSykoutris/Bonvita-Digital-Solutions/blob/main/ball%20game.gif" width = "100" height="200"/>
+<img src="https://github.com/AntonisSykoutris/Bonvita-Digital-Solutions/blob/main/tap%20game.gif" width = "100" height="200"/>
+<img src="https://github.com/AntonisSykoutris/Bonvita-Digital-Solutions/blob/main/questionnaire.gif" width = "100" height="200"/>
+<img src="https://github.com/AntonisSykoutris/Bonvita-Digital-Solutions/blob/main/calendar.gif" width = "100" height="200"/>
+<img src="https://github.com/AntonisSykoutris/Bonvita-Digital-Solutions/blob/main/calendar%202.gif" width = "100" height="200"/>
+<img src="https://github.com/AntonisSykoutris/Bonvita-Digital-Solutions/blob/main/graph.gif" width = "300" height="200"/></p>
